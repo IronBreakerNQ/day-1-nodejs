@@ -1,0 +1,19 @@
+{
+  "name": "day-1-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronBreakerNQ/day-1-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IronBreakerNQ/day-1-nodejs/issues"
+  },
+  "homepage": "https://github.com/IronBreakerNQ/day-1-nodejs#readme",
+  "description": ""
+}
